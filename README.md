@@ -2,6 +2,10 @@
 
 Welcome to the **Weather App**! 🌍 This simple and modern weather application provides **real-time weather updates** and a **5-day forecast** for any city. It fetches accurate weather data using the **OpenWeatherMap API**.  
 
+
+## Deploy 
+
+https://weather-website-brown.vercel.app/
 ## 📸 Screenshot  
 ![Weather App Screenshot](screenshot.png)  
 
